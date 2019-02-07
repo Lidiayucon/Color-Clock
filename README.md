@@ -1,1 +1,1 @@
-A simple Color Clock that changes colors in the background based on the time. Making some changes to this project. 
+A simple Color Clock that changes colors in the background based on the time. 

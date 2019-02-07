@@ -1,6 +1,4 @@
 //Initiate the stop and start of the clock
-// single click to stop
-// double click to continue clock
 function init() {
   var tick = setInterval(function() {
     output(time());
